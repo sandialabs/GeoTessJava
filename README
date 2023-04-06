@@ -18,5 +18,5 @@ GeoTessJava is delivered with the following components:
   library in user-developed java applications.  The jar was compiled with 
   java JDK version 10.
 
-- A configure.sh script that will generate run-scripts geotess.sh and geotessbuilder.sh.  
+- A configure.sh script that will generate run-scripts geotess and geotessbuilder  
 
